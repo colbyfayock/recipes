@@ -1,0 +1,13 @@
+{
+  "name": "recipes-cypress",
+  "version": "1.0.0",
+  "main": "N/A",
+  "scripts": {
+    "test": "cypress run",
+    "test:ci": "cypress run --headless",
+    "cy:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^6.5.0"
+  }
+}

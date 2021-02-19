@@ -1,0 +1,9 @@
+{
+  "name": "recipes",
+  "license": "MIT",
+  "author": "Applitools Team <team@applitools.com> (http://www.applitools.com/)",
+  "private": true,
+  "workspaces": [
+    "recipes/cypress"
+  ]
+}
